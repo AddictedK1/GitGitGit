@@ -2,7 +2,7 @@
 
 int main()  {
 
-
+  cout<<"latent";
   
   return 0;
 }
